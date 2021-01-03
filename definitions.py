@@ -1,3 +1,4 @@
+#definitions
 import random 
 import time
 
