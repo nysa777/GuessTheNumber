@@ -1,4 +1,4 @@
-#definitions
+#definitions of functions used
 import random 
 import time
 
